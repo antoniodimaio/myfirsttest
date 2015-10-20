@@ -6,5 +6,12 @@ public class main {
     {
         student antonio = new student();
         System.out.println("this is test");
+        System.out.println("this is test");
+        System.out.println("this is test");
+        System.out.println("this is test");
+        System.out.println("this is test");
+        System.out.println("this is test");
+        System.out.println("this is test");
+        System.out.println("this is test");
     }
 }
